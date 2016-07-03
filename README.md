@@ -7,6 +7,7 @@ connections
 
 Encoders 
 left Encoder    -    Arduino Pin 2
+
 Right Encoder   -    Arduino Pin 3
 
 Motors
