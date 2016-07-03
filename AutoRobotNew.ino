@@ -1,7 +1,5 @@
 /*
 Autonomous Robot For Transportation
-This Project is copyrights of uday savaria , chetan dobariya and sunnt tank under the Open Source Licence. 
-Modification and redistribution of the code is permitted under the licence of open source ZeroDegree. 
 
 connections
 
