@@ -14,8 +14,11 @@ Right Encoder   -    Arduino Pin 3
 Motors:
 
 Left Motor Positive   -   Arduino Pin 10
+
 Left Motor Negative   -   Arduino Pin 11
+
 Right Motor Positive  -   Arduino Pin 5
+
 Right Motor Negative  -   Arduino Pin 6
 
 Ir Tx-Rx Used for Accident Avoidance:
